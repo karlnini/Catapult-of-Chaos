@@ -1,0 +1,6 @@
+@Catapult_of_Chaos_HostAddress = http://localhost:5046
+
+GET {{Catapult_of_Chaos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

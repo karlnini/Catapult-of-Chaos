@@ -1,0 +1,66 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]ebugBuild/
+[Dd]ebug-windows/
+[Dd]ebug-linux/
+[Dd]ebug-osx/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+[Dd]ebug-arm/
+[Dd]ebug-arm64/
+[Dd]ebug-x86_64/
+[Dd]ebug-x64_64/
+[Dd]ebug-x32/
+
+# Test results
+[Tt]estResults/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files for JetBrains Rider
+.idea/
+
+# Node.js
+node_modules/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.pdb
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# .NET Core SDK version files
+global.json
+
+# Windows Installer files
+Thumbs.db
