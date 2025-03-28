@@ -1,39 +1,24 @@
-Summon the Chaos Cat! 🐱🔥
-Overview
-"Summon the Chaos Cat!" is a fun and unpredictable web app where users click a button to trigger one of several random cat-related events. Every click is a surprise—whether it’s a rotating cat image, a random meow sound, or a full-screen cat zoomie. Get ready for some chaos! 😺
+Catapult of Chaos: 
+Welcome to Catapult of Chaos! Every click on the "Summon the Chaos Cat!" button triggers random, AI-powered cat chaos. From AI-generated memes to unpredictable cat animations, each click unleashes something new and fun!
 
 How It Works
-The app features a big "Summon the Chaos Cat!" button, which you can click as many times as you like.
+Click the big button! Each click triggers a random AI-powered cat event:
 
-Every time the button is clicked, one of several random events is triggered, such as:
+AI-Generated Cat Meme with funny captions.
 
-A cat image appears and slowly rotates 🌀
+Random Cat Sounds (AI-generated meows).
 
-A cat meowing loudly (random funny sound) 🔊
+AI-Generated Cat Animation (interactive zoomies or chases).
 
-The entire screen shakes like a cat zoomie 🏃💨
+AI Cat GIF with custom effects.
 
-A cat GIF that zooms in aggressively 😂
+Error Message: "The cat has taken over!" 🐾
 
-A fake "error" message that says, "The cat has taken over!"
-
-Every click is different, so you’ll never know what the chaos cat will do next! 🎉
+The chaos is unpredictable, and the AI makes each experience unique!
 
 Tech Stack
-Frontend:
+Frontend: React, Tailwind CSS, Framer Motion (animations)
 
-React: A JavaScript library for building the user interface.
+Backend: C# (.NET) API, The Cat API
 
-Tailwind CSS: A utility-first CSS framework for styling.
-
-Framer Motion: A popular animation library for adding smooth animations, including image rotation, zooming effects, and screen shake.
-
-Backend:
-
-C# (.NET): A powerful backend framework used to serve random cat images, funny sounds, and responses. The backend also handles the randomization logic for the events triggered by the button.
-
-Additional Tools:
-
-The Cat API: Used to fetch fresh, random cat images for maximum cat chaos. 🐾
-
-Sound effects: A collection of funny meowing sounds, played when the cat does something fun
+AI: OpenAI (GPT-3) for captions & text, DALL·E for image generation, AI sound generation for meows.
